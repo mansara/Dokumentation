@@ -1,0 +1,46 @@
+﻿Projektidee
+
+
+Es gibt ein Spiel Namens “Mafia”
+Das Spiel geht im Regime der realen Zeit. Die Ergebnisse werden vom Moderator des Spieles eingetragen.
+
+
+Die Funktionen:
+Die Einführung und die Erhaltung der Namen der Spieler.
+Indikation und Speicherung des Spielergebnisses.
+
+
+
+
+Der Anfang des Spieles
+Auswahl 10 Spieler aus der Liste für das Spiel.
+Verteilung der Rolle für jeden Spieler.
+Aufteilung in zwei Mannschaften: roten und schwarzen.
+Zwei Phasen: der Tag und die Nacht. Sie kann man umschalten.
+
+
+Die Tag-Phase: es arbeitet die Schaltuhr bis 1 Minute, den man jeder Zeit wieder anlaufen kann. 
+           Foul: Es gibt der Knopf für die Fouls bei jedem Spieler, nach dem dritten Druck  flammt rot-auf, nach dem 4. wird der Spieler aus dem Spiel entfernt.
+            Den Spieler kann man für die Abstimmung nominieren. Die nominierten Spieler werden im speziellen Fenster dargestellt. Gegenüber jeden Spieler wird die Anzahl der Stimmen, die gegen ihn abgegeben wurden, dargestellt.
+
+
+Wer am meisten Stimmen erhalten hat, verlässt das Spiel.
+Bei gleichen Stimmenverteilung gibt es zusätzliche Abstimmung zwischen entsprechenden Spilern.
+
+
+Die Nacht-Phase:
+Es wird der Spieler gewählt, den die Mafia entfernt
+Es wird der Spieler markiert,, wessen Rolle prüfen.
+Die Daten werden gespeichert.
+
+
+Die Bedingungen des Spielendes
+Für Schwarzen: Die Zahl der Roten = die Zahl der Schwarzen
+Für Roten: Es gibt keine Schwarze
+
+
+Beim Sieg des Schwarzen - jeder Schwarze kriegt 2 Points, jeder Rote bekommt 0 Points
+Beim Sieg des Roten - jeder Rote kriegt 2 Points, Schwarze bekommt 0 Points
+
+
+Es gibt die Möglichkeit, den zusätzlichen Point manuell einzugeben.
