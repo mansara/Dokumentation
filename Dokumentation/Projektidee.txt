@@ -1,3 +1,11 @@
+========Projektbeschreibung 22.04.2016=========
+Ausgangsspiel ist "Die goldene Stadt".
+Drei bis vier Spieler schlüpfen in die Rolle eben dieser Händler und Abenteurer und versuchen, sich den Weg von den Anlegestellen 
+der Schiffe ins Innere der Insel und anschließend weiter ins Herz der Goldenen Stadt zu bahnen. Auf ihrem Weg müssen sie
+Handelshäuser errichten um Waren einzutauschen, Geld zu erhandeln oder gar einen Schlüssel für die Tore der Goldenen Stadt zu erhalten.
+Es werden maximal 16 Runden gespielt, denn das Spiel endet, wenn entweder alle Wertungskarten ausgespielt wurden oder ein Spieler alle 
+seine Handelshäuser auf dem Spielbrett platzieren konnte. Wer am Ende des Spieles die meisten Handelsbriefe vorweisen kann, gewinnt.
+
 ﻿=== Projektidee mansara, 2016-04-05 ===
 
 Es gibt ein Spiel Namens “Mafia”
