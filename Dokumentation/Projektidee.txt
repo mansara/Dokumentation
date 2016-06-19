@@ -1,4 +1,21 @@
 ======================================
+=== Projektbeschreibung 19.06.2016 ===
+======================================
+Ausgangsspiel ist "Die goldene Stadt".
+Der Spielplan zeigt eine Insel mit 4 verbündete Landschaftsarten mit 20 Vororten. Es gibt 8 Startposotionen. In der Mitte befindet sich  die Goldene Stadt. 
+Die Spieler: 4. Das Ziel: am schnellsten die Stadt zu erreichen.
+
+Der Lauf des Spieles
+1.Es werden die Namen der Spieler eingeführt.
+2.Jeder erhält heimlich ein Startposition.
+3.Auf dem Spielplan stellt der Rechner 4 Paare Karten mit den Landschaftsarten aus.
+4.Die Spieler ziehen abwechselnd ein Paar.
+5.Jeder Spieler stellt die Landschaftskarte aus, baut dort das Haus oder versäumt den Lauf.
+
+Dort, wo das Haus ist,ist der Weg beschäftigt. Zwei identische Karten kann man statt eine beliebigen spielen.
+Das Spiel geht zu Ende, wenn jemand das Haus im Zentrum baut.
+
+======================================
 === Projektbeschreibung 22.04.2016 ===
 ======================================
 
@@ -9,9 +26,9 @@ Auf ihrem Weg müssen sie Handelshäuser errichten um Waren einzutauschen, Geld 
 Es werden maximal 16 Runden gespielt, denn das Spiel endet, wenn entweder alle Wertungskarten ausgespielt wurden oder ein Spieler alle seine Handelshäuser auf dem Spielbrett platzieren konnte. 
 Wer am Ende des Spieles die meisten Handelsbriefe vorweisen kann, gewinnt.
 
-================================
-﻿=== Projektidee mansara, 2016-04-05 ===
-================================
+=======================================
+=== Projektidee mansara, 2016-04-05 ===
+=======================================
 
 Es gibt ein Spiel Namens “Mafia”
 Das Spiel geht im Regime der realen Zeit. 
