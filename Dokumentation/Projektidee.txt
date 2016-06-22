@@ -2,18 +2,18 @@
 === Projektbeschreibung 19.06.2016 ===
 ======================================
 Ausgangsspiel ist "Die goldene Stadt".
-Der Spielplan zeigt eine Insel mit 4 verbündete Landschaftsarten mit 20 Vororten. Es gibt 8 Startposotionen. In der Mitte befindet sich  die Goldene Stadt. 
+Der Spielplan zeigt eine Insel mit 4 verbündete Landschaftsarten mit 20 Vororten und Wege dazwischen. Es gibt 8 Startposotionen. In der Mitte befindet sich  die Goldene Stadt. 
 Die Spieler: 4. Das Ziel: am schnellsten die Stadt zu erreichen.
 
 Der Lauf des Spieles
-1.Es werden die Namen der Spieler eingeführt. Login.
-2.Jeder erhält heimlich ein Startposition.Jeder sieht eigenes Bild.
-3.Auf dem Spielplan stellt der Rechner 4 Paare Bilden mit den Landschaftsarten aus. 
-4.Die Spieler wählen abwechselnd ein Paar.
-5.Jeder Spieler stellt die Landschaftskarte aus, baut dort das Haus oder versäumt den Lauf.
+Es werden die Namen der Spieler eingeführt. Login.
+Jeder erhält heimlich ein Startposition.Jeder sieht eigenes Bild.
+1.Auf dem Spielplan stellt der Rechner 4 Paare Bilden mit den Landschaftsarten aus. 
+2.Die Spieler wählen abwechselnd ein Paar.
+3.Jeder Spieler stellt die Landschaftskarte aus, baut dort das Haus oder versäumt den Lauf.
 
 Dort, wo das Haus ist,ist der Weg beschäftigt. Zwei identische Karten kann man statt eine beliebigen spielen.
-Das Spiel geht zu Ende, wenn jemand das Haus im Zentrum baut.
+Das Spiel geht zu Ende, wenn jemand das Haus in der Goldene Stadt baut.
 
 ======================================
 === Projektbeschreibung 22.04.2016 ===
