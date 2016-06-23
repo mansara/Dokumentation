@@ -1,18 +1,26 @@
-======================================
-=== Projektbeschreibung 19.06.2016 ===
-======================================
+======================================================
+=== Erweiterung der Projektbeschreibung 19.06.2016 ===
+======================================================
+
 Ausgangsspiel ist "Die goldene Stadt".
-Der Spielplan zeigt eine Insel mit 4 verbündete Landschaftsarten mit 20 Vororten und Wege dazwischen. Es gibt 8 Startposotionen. In der Mitte befindet sich  die Goldene Stadt. 
-Die Spieler: 4. Das Ziel: am schnellsten die Stadt zu erreichen.
+
+Der Spielplan zeigt eine Insel mit 4 verbündete Landschaftsarten mit 20 Vororten und Wege dazwischen. 
+Es gibt 8 Startposotionen. 
+In der Mitte befindet sich  die Goldene Stadt. 
+Die Spieler: 4. 
+Das Ziel: am schnellsten die Stadt zu erreichen.
 
 Der Lauf des Spieles
-Es werden die Namen der Spieler eingeführt. Login.
-Jeder erhält heimlich ein Startposition.Jeder sieht eigenes Bild.
-1.Auf dem Spielplan stellt der Rechner 4 Paare Bilden mit den Landschaftsarten aus. 
-2.Die Spieler wählen abwechselnd ein Paar.
-3.Jeder Spieler stellt die Landschaftskarte aus, baut dort das Haus oder versäumt den Lauf.
+Es werden die Namen der Spieler eingeführt. 
+Login.
+Jeder erhält heimlich ein Startposition.
+Jeder sieht eigenes Bild.
+1. Auf dem Spielplan stellt der Rechner 4 Paare Bilden mit den Landschaftsarten aus. 
+2. Die Spieler wählen abwechselnd ein Paar.
+3. Jeder Spieler stellt die Landschaftskarte aus, baut dort das Haus oder versäumt den Lauf.
 
-Dort, wo das Haus ist,ist der Weg beschäftigt. Zwei identische Karten kann man statt eine beliebigen spielen.
+Dort, wo das Haus ist, ist der Weg beschäftigt. 
+Zwei identische Karten kann man statt eine beliebigen spielen.
 Das Spiel geht zu Ende, wenn jemand das Haus in der Goldene Stadt baut.
 
 ======================================
@@ -118,3 +126,13 @@ Wertung 2: Projektbeschreibung: gesamt: 5 / 10
 - Designaspekte: 0 
 - Voraussetzung bekannten Wissens: 0 
 (Bitte beachten Sie, dass das die Wertung zum aktuellen Zeitpunkt und keine abschließende Wertung Ihrer Beschreibung ist.)
+
+===================================
+=== Feedback Alpers, 2016-06-23 ===
+===================================
+
+Leider ergeben Ihre Sätze zum Teil keine Sinn. So weiß ich hier wirklich nicht, was Sie meinen: "Auf dem Spielplan stellt der Rechner 4 Paare Bilden mit den Landschaftsarten aus." Meinen Sie damit, dass vom Computer insgesamt acht Bilder auf dem Spielplan angezeigt werden sollen? Meinen Sie damit, dass es vier Paare gibt, die gemeinsam die Landschaftsarten bilden? Wobei auch hier in beiden Fällen unklar ist, was Sie damit meinen.
+
+Genauso dieser Satz: "Jeder Spieler stellt die Landschaftskarte aus, baut dort das Haus oder versäumt den Lauf." Wie sollen wir uns vorstellen, dass ein Spieler eine Landschaftskarte ausstellt? Hausbau ist zwar klar (auch wenn Sie hier noch erklären müssen, wie das im Spiel umgesetzt werden soll), aber was ist damit gemeint, dass Spieler den Lauf versäumen? Gibt es im Spiel einen Wettlauf?
+
+Leider fehlt auch weiterhin die Interaktion zwischen Spieler und Computer.
