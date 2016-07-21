@@ -136,3 +136,11 @@ Leider ergeben Ihre Sätze zum Teil keine Sinn. So weiß ich hier wirklich nicht
 Genauso dieser Satz: "Jeder Spieler stellt die Landschaftskarte aus, baut dort das Haus oder versäumt den Lauf." Wie sollen wir uns vorstellen, dass ein Spieler eine Landschaftskarte ausstellt? Hausbau ist zwar klar (auch wenn Sie hier noch erklären müssen, wie das im Spiel umgesetzt werden soll), aber was ist damit gemeint, dass Spieler den Lauf versäumen? Gibt es im Spiel einen Wettlauf?
 
 Leider fehlt auch weiterhin die Interaktion zwischen Spieler und Computer.
+
+===================================
+=== Feedback Alpers, 2016-07-21 ===
+===================================
+
+Leider keine Änderungen seit dem letzten Feedback. 
+
+Bitte beachten Sie, dass eine der Voraussetzungen zum Erhalt des Leistungsnachweises darin besteht, dass Sie kontinuierlich am Projekt arbeiten. Wie schon mehrfach erklärt gilt: Kontinuierliches Arbeiten bedeutet jede Woche am Projekt zu arbeiten. Und da für das Projekt ein Arbeitsaufwand von 80 Stunden (innerhalb der 16 Wochen Vorlesungszeit) aufgebracht werden soll, bedeutet das, dass Sie pro Woche 5 Stunden für das Projekt investieren müssen. Wenn Sie weiterhin deutlich weniger am Projekt arbeiten, dann muss ich es auf der Basis des aktuellen Stands bewerten.
